@@ -7,11 +7,11 @@ layout: home
 
 <img style="float: left; margin-right: 30px; margin-top: 50px;" src="assets/img/me.jpg" width="150"/>
 
-# <center> <b>Ning Zhang</b> </center>
+# <center> <b>Li Zhang</b> </center>
 <!-- ### <center>Welcom to my personal webpage!</center> -->
 ## **About Me**
-I am a DPhil in the statistics department at the University of Oxford (Computational Discovery CDT), and my supervisors are Prof. Mihai Cucuringu and Prof. Xiaowen Dong. Prior to that, I received my MASc in Electrical and Computer Engineering from the University of British Columbia, and BSc in Physics from Nankai University.
-[[Curriculum Vitae]](assets/NingZhang_CV.pdf)\
+I am an associate lecturer in Finance and Technology of Institute(IFT),  University College London. Prior to  joining IFT, I was a postdoc in the Machine Learning group at University of Oxford and worked with Prof. Xiaowen Dong, Prof. Janet Pierrehumbert and Dr. Isabelle Lorge. I obtained my PhD degree in the Department of Computer Science, Machine Learning Group, University of Sheffield and my supervisors are Prof. Haiping Lu and Prof. Nikos Aletras. 
+<!-- [[Curriculum Vitae]](assets/NingZhang_CV.pdf)\ -->
 **Contact**: ning.zhang[at]stats[dot]ox[dot]ac[dot]uk
 <br/>
 <br/>
