@@ -12,6 +12,7 @@ layout: home
 ## **About Me**
 I am an associate lecturer in Finance and Technology of Institute(IFT),  University College London. Prior to  joining IFT, I was a postdoc in the Machine Learning group at University of Oxford and worked with Prof. Xiaowen Dong, Prof. Janet Pierrehumbert and Dr. Isabelle Lorge. I obtained my PhD degree in the Department of Computer Science, Machine Learning Group, University of Sheffield and my supervisors are Prof. Haiping Lu and Prof. Nikos Aletras. 
 <!-- [[Curriculum Vitae]](assets/NingZhang_CV.pdf)\ -->
+<br/>
 **Contact**: ning.zhang[at]stats[dot]ox[dot]ac[dot]uk
 <br/>
 <br/>
