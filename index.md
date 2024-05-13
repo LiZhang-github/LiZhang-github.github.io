@@ -24,14 +24,14 @@ My rsearch research focuses on machine learning, graph representation learning (
 <br/>
 
 ## **Publications and preprints**
-- **Maximum Likelihood Estimation on Stochastic Blockmodels for Directed Graph Clustering**\
+<!-- - **Maximum Likelihood Estimation on Stochastic Blockmodels for Directed Graph Clustering**\ -->
 <!-- Mihai Cucuringu, Xiaowen Dong and Ning Zhang.\
-[[arXiv]](https://arxiv.org/abs/2403.19516)[[Code]](https://github.com/ningz97/MLE-DSBM)
+<!-- [[arXiv]](https://arxiv.org/abs/2403.19516)[[Code]](https://github.com/ningz97/MLE-DSBM) -->
 
-- **On the Feasible Region of Efficient Algorithms for
-Attributed Graph Alignment**\
-Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
-IEEE Transactions on Information Theory [[arXiv]](https://arxiv.org/pdf/2201.10106) -->
+<!-- - **On the Feasible Region of Efficient Algorithms for -->
+<!-- Attributed Graph Alignment**\ -->
+<!-- Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\ -->
+<!-- IEEE Transactions on Information Theory [[arXiv]](https://arxiv.org/pdf/2201.10106) --> -->
 
 <br/>
 <br/>
