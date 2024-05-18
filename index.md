@@ -22,10 +22,10 @@ My rsearch research focuses on machine learning, graph representation learning (
 <br/>
 
 ## **Publications and preprints**
-- *STEntConv: Predicting Disagreement with Stance Detection and a Signed Graph Convolutional Network\
+- **STEntConv: Predicting Disagreement with Stance Detection and a Signed Graph Convolutional Network**\
 LREC-COLING 2024 - The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation*\
 Isabelle Lorge, Li Zhang, Xiaowen Dong, Janet B Pierrehumbert.\
-[[arXiv]](https://arxiv.org/pdf/2403.15885)[[Code]](https://github.com/isabellelorge/contradiction)
+[[paper]](https://arxiv.org/pdf/2403.15885)[[Code]](https://github.com/isabellelorge/contradiction)
 
 <!-- - * RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation (arxiv) -->
 <!-- - **On the Feasible Region of Efficient Algorithms for -->
