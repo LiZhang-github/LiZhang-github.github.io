@@ -21,11 +21,40 @@ My rsearch research focuses on machine learning, graph representation learning (
 <br/> 
 <br/>
 
-## **Publications and preprints**
+## **Recent publications and preprints**
 - **STEntConv: Predicting Disagreement with Stance Detection and a Signed Graph Convolutional Network**\
-Isabelle Lorge, Li Zhang, Xiaowen Dong, Janet B Pierrehumbert.\
-LREC-COLING 2024 - The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation*\
+Isabelle Lorge, **Li Zhang**, Xiaowen Dong, Janet B Pierrehumbert.\
+The Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024)*\
 [[paper]](https://arxiv.org/pdf/2403.15885)[[Code]](https://github.com/isabellelorge/contradiction)
+
+- **RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation (2024)**\
+Xiaohan Yu, **Li Zhang**, Xin Zhao, Yue Wang, Zhongrui Ma.\
+[[paper]](https://arxiv.org/pdf/2402.04527)
+
+- **DGDNN: Decoupled graph diffusion neural network for stock movement prediction**\
+Zinuo You, Zijian Shi, Hongbo Bo, John Cartlidge, **Li Zhang**, Yan Ge.\
+The 16th International Conference on Agents and Artificial Intelligence (ICAART 2024)*\
+[[paper]](https://arxiv.org/pdf/2401.01846)
+
+- **Trustworthiness-aware knowledge graph representation for recommendation**\
+Yan Ge, Jun Ma, **Li Zhang**, Xiang Li, Haiping Lu.\
+Knowledge-Based Systems (2023)
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0950705123006159)
+
+- **Predicting polarisation of dynamic social networks via graph auto-encoders**\
+**Li Zhang**, Isabelle Lorge, Janet B Pierrehumbert, Xiaowen Dong.\
+The International Conference for Computational Social Science (2023)\
+<!-- [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705123006159) -->
+
+- **Knowledge-aware neural collective matrix factorization for cross-domain recommendation**\
+Li Zhang, Yan Ge, Jun Ma, Jianmo Ni, Haiping Lu.\
+SIGKDD Conference on Knowledge Discovery and Data Mining - Graph Representation Learning(KDD22-GRL)\
+[[paper]](https://arxiv.org/pdf/2206.13255)
+
+- **A gnn-based multi-task learning framework for personalized video search**\
+**Li Zhang**, Lei Shi, Jiashu Zhao, Juan Yang, Tianshu Lyu, Dawei Yin, Haiping Lu.\
+ACM International Conference on Web Search and Data Mining(WSDM 2022)\
+[[paper]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498507)
 
 <!-- - * RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation (arxiv) -->
 <!-- - **On the Feasible Region of Efficient Algorithms for -->
