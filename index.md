@@ -18,16 +18,15 @@ My rsearch research focuses on machine learning, graph representation learning (
 **Contact**: ucesl07[at]ucl[dot]ac[dot]uk
 <br/>
 
-## **Research**
-
 <br/> 
 <br/>
 
 ## **Publications and preprints**
-<!-- - **Maximum Likelihood Estimation on Stochastic Blockmodels for Directed Graph Clustering**\ -->
-<!-- Mihai Cucuringu, Xiaowen Dong and Ning Zhang.\
-<!-- [[arXiv]](https://arxiv.org/abs/2403.19516)[[Code]](https://github.com/ningz97/MLE-DSBM) -->
+- *STEntConv: Predicting Disagreement with Stance Detection and a Signed Graph Convolutional Network (LREC/COLING 2024)*\
+Isabelle Lorge, Li Zhang, Xiaowen Dong, Janet B Pierrehumbert.\
+[[arXiv]](https://arxiv.org/pdf/2403.15885)[[Code]](https://github.com/isabellelorge/contradiction)
 
+<!-- - * RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation (arxiv) -->
 <!-- - **On the Feasible Region of Efficient Algorithms for -->
 <!-- Attributed Graph Alignment**\ -->
 <!-- Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\ -->
