@@ -10,7 +10,9 @@ layout: home
 # <center> <b>Li Zhang</b> </center>
 <!-- ### <center>Welcom to my personal webpage!</center> -->
 ## **About Me**
-I am an associate lecturer in Finance and Technology of Institute(IFT),  University College London. Prior to  joining IFT, I was a postdoc in the Machine Learning group at University of Oxford and worked with Prof. Xiaowen Dong, Prof. Janet Pierrehumbert and Dr. Isabelle Lorge. I obtained my PhD degree in the Department of Computer Science, Machine Learning Group, University of Sheffield and my supervisors are Prof. Haiping Lu and Prof. Nikos Aletras. My rsearch research focuses on machine learning, graph representation learning (GRL), and graph neural networks (GNNs) and related application on social network, financial network analysis. I serve as an program committee member of KDD, IJCAI, AAAI, ECML, WWW, WSDM.
+I am an associate lecturer in Finance and Technology of Institute(IFT),  University College London. Prior to  joining IFT, I was a postdoc in the Machine Learning group at University of Oxford and worked with Prof. Xiaowen Dong, Prof. Janet Pierrehumbert and Dr. Isabelle Lorge. I obtained my PhD degree in the Department of Computer Science, Machine Learning Group, University of Sheffield and my supervisors are Prof. Haiping Lu and Prof. Nikos Aletras. 
+
+My rsearch research focuses on machine learning, fintech, graph representation learning (GRL), and graph neural networks (GNNs) and related application on social network, financial network analysis. I serve as an program committee member of KDD, IJCAI, AAAI, ECML, WWW, WSDM.
 <!-- [[Curriculum Vitae]](assets/NingZhang_CV.pdf)\ -->
 <br/>
 **Contact**: ucesl07[at]ucl[dot]ac[dot]uk
