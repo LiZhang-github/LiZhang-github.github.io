@@ -18,13 +18,13 @@ My rsearch research focuses on machine learning, graph representation learning (
 **Contact**: ucesl07[at]ucl[dot]ac[dot]uk
 <br/>
 
-<br/> 
-<br/>
+<!-- <br/> 
+<br/> -->
 
 ## **Recent publications and preprints**
 - **STEntConv: Predicting Disagreement with Stance Detection and a Signed Graph Convolutional Network**\
 Isabelle Lorge, **Li Zhang**, Xiaowen Dong, Janet B Pierrehumbert.\
-The Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024)*\
+The Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024)\
 [[paper]](https://arxiv.org/pdf/2403.15885)[[Code]](https://github.com/isabellelorge/contradiction)
 
 - **RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation (2024)**\
@@ -38,7 +38,7 @@ The 16th International Conference on Agents and Artificial Intelligence (ICAART 
 
 - **Trustworthiness-aware knowledge graph representation for recommendation**\
 Yan Ge, Jun Ma, **Li Zhang**, Xiang Li, Haiping Lu.\
-Knowledge-Based Systems (2023)
+Knowledge-Based Systems (2023)\
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705123006159)
 
 - **Predicting polarisation of dynamic social networks via graph auto-encoders**\
@@ -76,8 +76,8 @@ Graph Embedding Mining Workshop (ECML PKDD-GRL 2020)
 Advances in Neural Information Processing Systems-Graph Representation Learning (NeurIPS-GRL 2019)\
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3411983)
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
 ## **Talks**
 <!-- - Jun. 2021: [Attributed graph alignment](assets/publication/ISIT2021.pdf) at IEEE International Symposium on Information Theory;  -->
