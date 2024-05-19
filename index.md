@@ -16,6 +16,7 @@ My rsearch research focuses on machine learning, graph representation learning (
 
 I serve as an program committee member of KDD, IJCAI, AAAI, ECML, WWW, WSDM.
 <!-- [[Curriculum Vitae]](assets/NingZhang_CV.pdf)\ -->
+
 <br/>
 **Contact**: ucesl07[at]ucl[dot]ac[dot]uk
 <br/>
