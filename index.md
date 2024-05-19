@@ -11,8 +11,10 @@ layout: home
 <!-- ### <center>Welcom to my personal webpage!</center> -->
 ## **About Me**
 I am an associate lecturer in Finance and Technology of Institute(IFT),  University College London. Prior to  joining IFT, I was a postdoc in the Machine Learning group at University of Oxford and worked with Prof. Xiaowen Dong, Prof. Janet Pierrehumbert and Dr. Isabelle Lorge. I obtained my PhD degree in the Department of Computer Science, Machine Learning Group, University of Sheffield and my supervisors are Prof. Haiping Lu and Prof. Nikos Aletras. 
-<br/>
-My rsearch research focuses on machine learning, graph representation learning (GRL), and graph neural networks (GNNs) and related application on social network, financial network analysis. I serve as an program committee member of KDD, IJCAI, AAAI, ECML, WWW, WSDM.
+
+My rsearch research focuses on machine learning, graph representation learning (GRL), and graph neural networks (GNNs) and related application on social network, financial network analysis. 
+
+I serve as an program committee member of KDD, IJCAI, AAAI, ECML, WWW, WSDM.
 <!-- [[Curriculum Vitae]](assets/NingZhang_CV.pdf)\ -->
 <br/>
 **Contact**: ucesl07[at]ucl[dot]ac[dot]uk
@@ -90,7 +92,7 @@ Advances in Neural Information Processing Systems-Graph Representation Learning 
 
 ## **Teaching**
 <!-- - Michaelmas term 2023, Probability and Statistics for Network Analysis -->
-Spring 2018-2020: COM6012 Scalable Machine Learning 
+Spring 2018-2020: COM6012 Scalable Machine Learning \
 Fall 2020: COM4509/6509 Machine Learning and Adaptive Intelligence
 
 <br/>
