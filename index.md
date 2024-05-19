@@ -79,11 +79,11 @@ Advances in Neural Information Processing Systems-Graph Representation Learning 
 
 ## **Talks**
 <!-- - Jun. 2021: [Attributed graph alignment](assets/publication/ISIT2021.pdf) at IEEE International Symposium on Information Theory;  -->
-- 2023 IC2S2: Predicting polarisation of dynamic social networks via graph auto-encoders \
-- 2022 WSDM: A gnn-based multi-task learning framework for personalized video search \
-- 2020 CIKM: A Feature-Importance-Aware and Robust Aggregator for GCN \
-- 2020 ECML PKDD-GRL: Hop-Hop Relation-aware Graph Neural Network \ 
-- 2019 CIKM-GRL: Node-Feature Convolution for Graph Convolutional Networks \
+- 2023 IC2S2: Predicting polarisation of dynamic social networks via graph auto-encoders
+- 2022 WSDM: A gnn-based multi-task learning framework for personalized video search
+- 2020 CIKM: A Feature-Importance-Aware and Robust Aggregator for GCN
+- 2020 ECML PKDD-GRL: Hop-Hop Relation-aware Graph Neural Network
+- 2019 CIKM-GRL: Node-Feature Convolution for Graph Convolutional Networks
 
 ## **Teaching**
 <!-- - Michaelmas term 2023, Probability and Statistics for Network Analysis -->
