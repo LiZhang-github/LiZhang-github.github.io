@@ -26,6 +26,9 @@ I am an associate lecturer in Finance and Technology of Institute(IFT),  Univers
 <span class='anchor' id='research'></span>
 ## **Research**
 My rsearch research focuses on machine learning, fintech, graph representation learning (GRL), and graph neural networks (GNNs) and related application on social network, financial network analysis. I serve as an program committee member of KDD, IJCAI, AAAI, ECML, WWW, WSDM.
+
+If you are interested in machine learning, graph, finance related topics, please get in touch with ucesl07@ucl.ac.uk.
+
 <br/>
 <br/>
 
