@@ -27,12 +27,22 @@ I am an associate lecturer in Finance and Technology of Institute(IFT),  Univers
 ## **Research**
 My rsearch research focuses on machine learning, fintech, graph representation learning (GRL), and graph neural networks (GNNs) and related application on social network, financial network analysis. I serve as an program committee member of KDD, IJCAI, AAAI, ECML, WWW, WSDM.
 
-If you are interested in machine learning, graph, finance related topics, please get in touch with ucesl07@ucl.ac.uk.
+** [**] ** If you are interested in machine learning, graph and finance related topics, please get in touch with ucesl07@ucl.ac.uk.
 
 <br/>
 <br/>
 
 ## **Recent publications and preprints**
+
+- **Explainable CTR Prediction via LLM Reasoning**\
+Xiaohan Yu, **Li Zhang**, Chong Chen.\
+ACM International Conference on Web Search and Data Mining(WSDM 2025)\
+[[paper]](https://arxiv.org/pdf/2412.02588)
+
+- **Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation**\
+Xiaohan Yu, Xin Zhao, Yue Wang, **Li Zhang**\
+[[paper]](https://arxiv.org/pdf/2411.18262) 
+
 - **STEntConv: Predicting Disagreement with Stance Detection and a Signed Graph Convolutional Network**\
 Isabelle Lorge, **Li Zhang**, Xiaowen Dong, Janet B Pierrehumbert.\
 The Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024)\
@@ -77,7 +87,7 @@ Pattern Recognition(2022)\
 The Conference on Information and Knowledge Management(CIKM 2020)\
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3411983)
 
-- **Hop-Hop Relation-aware Graph Neural Network**\
+<!-- - **Hop-Hop Relation-aware Graph Neural Network**\
 **Li Zhang**, Haiping Lu.\
 The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases\
 Graph Embedding Mining Workshop (ECML PKDD-GRL 2020)
@@ -85,7 +95,7 @@ Graph Embedding Mining Workshop (ECML PKDD-GRL 2020)
 - **Learnable Aggregator for GCN**\
 **Li Zhang**, Haiping Lu.\
 Advances in Neural Information Processing Systems-Graph Representation Learning (NeurIPS-GRL 2019)\
-[[paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3411983)
+[[paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3411983) -->
 
 <!-- <br/>
 <br/> -->
